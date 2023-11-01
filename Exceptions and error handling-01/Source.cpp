@@ -39,5 +39,5 @@ int main() {
         std::cout << "Вы ввели слово запретной длины! До свидания" << std::endl;
     }
 
-    return 0;
+    return 0 ;
 }
